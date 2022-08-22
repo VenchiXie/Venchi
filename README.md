@@ -4,20 +4,13 @@
   
 
 # **<div align="center">Achieve a small goal: full stack engineer ! 🚀</div>**  
-  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<br/>   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- ⚡ 你好呀！感谢你的关注，我终于等到你，正在寻找拥有小微梦想的你，快和我一起来改变世界吧!!!
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔭 愿煦日的和风护卫着可爱的你，愿你带着满满的春笑回来。
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
