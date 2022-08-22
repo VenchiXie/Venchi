@@ -74,7 +74,7 @@
 
 ## Usage statistics  
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LinXiuci=all-smile&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinXiuci&theme=tokyonight)](https://github.com/LinXiuci)
 </div>  
   
 
@@ -83,11 +83,9 @@
 
 ## Home page traffic statistics  
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXiuci)](https://github.com/LinXiuci)
 </div>  
 
 
 <br/>  
 
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
