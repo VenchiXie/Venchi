@@ -27,11 +27,7 @@
 
 <div align="center">
 
-<strong>
-<font size=5>
-⚡ 你好呀！感谢你的关注，我终于等到你，正在寻找拥有小微梦想的你，快和我一起来改变世界吧!!!
-</font>
-</strong>
+
 <br/>
 <br/>
 <strong>
