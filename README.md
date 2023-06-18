@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinXiuci&theme=xcode)](https://github.com/LinXiuci)
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Venchi&theme=xcode)](https://github.com/VenchiXie)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinXiuci&theme=tokyonight)](https://github.com/LinXiuci)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venchi&theme=tokyonight)](https://github.com/VenchiXie)
 
 </div>
 
@@ -121,6 +121,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinXiuci)](https://github.com/LinXiuci)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchi)](https://github.com/Xie)
 
 </div>
