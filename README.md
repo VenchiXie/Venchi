@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Venchi&theme=xcode)](https://github.com/VenchiXie)
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VenchiXie&theme=xcode)](https://github.com/VenchiXie)
 
 </div>
 
