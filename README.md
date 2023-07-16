@@ -120,6 +120,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchi)](https://github.com/Xie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchi)](https://github.com/VenchiXie?tab=stars)
 
 </div>
