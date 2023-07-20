@@ -112,7 +112,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venchi&theme=tokyonight)](https://github.com/VenchiXie)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenchiXie&theme=tokyonight)](https://github.com/VenchiXie)
 
 </div>
 
@@ -120,6 +120,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchi)](https://github.com/VenchiXie?tab=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenchiXie)](https://github.com/VenchiXie?tab=stars)
 
 </div>
